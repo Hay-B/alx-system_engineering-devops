@@ -1,1 +1,1 @@
-Script that display current directory in long format
+Script that display current directory, including hidden files. Use the long format
