@@ -1,1 +1,1 @@
-Script that creates a directory named my_first_directory in the /tmp/ directory
+Move the file betty from /tmp/ /tmp/my_first_directory
