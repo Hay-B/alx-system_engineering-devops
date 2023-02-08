@@ -1,1 +1,1 @@
-Script that display current directory, including hidden files. Use the long format
+Scripts that display current directory contents in long format, with user and group IDs displayed numerically, and hidden files
